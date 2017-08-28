@@ -1,5 +1,3 @@
-require 'poseidon'
-
 module LogStashLogger
   module Device
     class GooglePubsub < Connectable
